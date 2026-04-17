@@ -14,5 +14,5 @@ Analysis of IPL cricket matches from 2007-2022 and an ML model that shows diffre
 - Pandas
 - NumPy
 - Matplotlib
-- sklearn
+- Scikitlearn
 - Seaborn
