@@ -1,7 +1,7 @@
 # IPL Data Analysis
 
 ## What this project does
-Analysis of IPL cricket matches from 2007-2022.
+Analysis of IPL cricket matches from 2007-2022 and an ML model that shows diffrence between residual and fitted values
 
 ## Key Findings
 - Toss winner wins only 51% of matches
@@ -14,3 +14,5 @@ Analysis of IPL cricket matches from 2007-2022.
 - Pandas
 - NumPy
 - Matplotlib
+- sklearn
+- Seaborn
